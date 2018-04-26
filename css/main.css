@@ -1,0 +1,33 @@
+* {
+
+}
+
+h1 {
+	text-align: center;
+}
+
+div {
+	margin-top: 20px;
+	font-size: 1.2em;
+}
+
+input {
+	border-radius: 20px 20px;
+	font-size: 18px;
+	width: 55%;
+}
+
+button { 
+	border-radius: 7px 7px;
+	font-size: 1.2em;
+	background-color: skyblue;
+	color: white;
+}
+
+.correct {
+	color: green;
+}
+
+.incorrect {
+	color: red;
+}
